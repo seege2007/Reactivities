@@ -1,0 +1,17 @@
+E:\Udemy\Neil\ReactClass\Reactivities\Application\bin\Debug\net6.0\Application.deps.json
+E:\Udemy\Neil\ReactClass\Reactivities\Application\bin\Debug\net6.0\Application.dll
+E:\Udemy\Neil\ReactClass\Reactivities\Application\bin\Debug\net6.0\Application.pdb
+E:\Udemy\Neil\ReactClass\Reactivities\Application\bin\Debug\net6.0\Domain.dll
+E:\Udemy\Neil\ReactClass\Reactivities\Application\bin\Debug\net6.0\Persistence.dll
+E:\Udemy\Neil\ReactClass\Reactivities\Application\bin\Debug\net6.0\Persistence.pdb
+E:\Udemy\Neil\ReactClass\Reactivities\Application\bin\Debug\net6.0\Domain.pdb
+E:\Udemy\Neil\ReactClass\Reactivities\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+E:\Udemy\Neil\ReactClass\Reactivities\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Udemy\Neil\ReactClass\Reactivities\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+E:\Udemy\Neil\ReactClass\Reactivities\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+E:\Udemy\Neil\ReactClass\Reactivities\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+E:\Udemy\Neil\ReactClass\Reactivities\Application\obj\Debug\net6.0\Application.csproj.CopyComplete
+E:\Udemy\Neil\ReactClass\Reactivities\Application\obj\Debug\net6.0\Application.dll
+E:\Udemy\Neil\ReactClass\Reactivities\Application\obj\Debug\net6.0\refint\Application.dll
+E:\Udemy\Neil\ReactClass\Reactivities\Application\obj\Debug\net6.0\Application.pdb
+E:\Udemy\Neil\ReactClass\Reactivities\Application\obj\Debug\net6.0\ref\Application.dll
